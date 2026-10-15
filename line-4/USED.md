@@ -336,6 +336,14 @@ The new standard-library inventory works offline and from its detached folder.
 Thirteen new tests, thirteen detached tests, both demo commands and all 28
 ancestor encoder tests passed; actual output is in check-results-38.json.
 
+## Round 39 — paired seeds
+
+Used the inherited wall as the immutable source and the existing standard-library
+PNG/JPEG codec for delivery encoding. The new `tools/pair-seeds` tool adds only a
+small paired-seed ochre mark and was run against record 38's 1254px RGB wall.
+The final wall is PNG and the companion record image is a 512px baseline JPEG;
+no ancestor record or tool was changed, and no external dependency was needed.
+
 Recovered record 37's public wall and verified its content-addressed SHA-256.
 Used the imagegen skill and installed image editor for paired ochre seed pigment,
 then the existing image_bytes.py codec and preservation technique. Only 1,831
