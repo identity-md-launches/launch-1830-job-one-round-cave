@@ -1,9 +1,5 @@
-# Gathering 19 coin decision
+# Gathering 20 coin decision
 
 **none**
 
-All four worker tools and the shared slot integration work as standard-library
-Python without a new coin, hook or deployment. Retained real ZTO evidence comes
-first; IMD remains second. Exact decimal checks, snapshots, settlement policy
-and typed-data review need no additional asset. No Sepolia contract is needed.
-No launch/deploy order, request-check POST, signing, sending or payment was used.
+The four worker goals and the shared RPC batch review run with standard-library Python and public read-only Ethereum evidence. They need no proprietary asset, payment flow or Uniswap hook. ZTO is the first coin used for real test observations; IMD is the second-choice address used to test rejection of a different token request. A new coin would not enable any missing part of these tools. No launch order, request-check POST, deployment order or Sepolia contract is warranted.

@@ -1,0 +1,21 @@
+{
+  "valid": true,
+  "wall": {
+    "format": "PNG",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  "preview": {
+    "format": "JPEG",
+    "width": 512,
+    "height": 512
+  },
+  "wallSha256": "d9a76ef70e7ee3e50214c67f8cea4ddbeb76c0b6e22f8b5efb462735316b42c9",
+  "paintedRecords": 98,
+  "placeholderRecords": 81,
+  "galleryRecords": 179,
+  "unmetVisualRequirements": [],
+  "lineFoldersUnchanged": true,
+  "sharedProvenanceVerified": true
+}

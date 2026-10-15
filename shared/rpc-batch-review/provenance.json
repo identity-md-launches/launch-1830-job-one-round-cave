@@ -1,0 +1,37 @@
+[
+  {
+    "source": "line-1/tools/rpc-read-batch/read_batch.py",
+    "copy": "shared/rpc-batch-review/vendor/line-1/tools/rpc-read-batch/read_batch.py",
+    "sha256": "f2474f849ff5f2fca1510719590c5e9e2cded68d3d4db7cf8588aee08bc877dc"
+  },
+  {
+    "source": "line-1/tools/bounded-rpc-snapshot/snapshot.py",
+    "copy": "shared/rpc-batch-review/vendor/line-1/tools/bounded-rpc-snapshot/snapshot.py",
+    "sha256": "3df4d6ad7fd38e9730fe159ea6185f7c72e6a1d022aa79dd5a864e4226b7b651"
+  },
+  {
+    "source": "line-1/tools/safe-snapshot-files/safe_files.py",
+    "copy": "shared/rpc-batch-review/vendor/line-1/tools/safe-snapshot-files/safe_files.py",
+    "sha256": "8a465d8df43762067d67c6ba35ecfdf8a572e16f66370ac8596ab65010575272"
+  },
+  {
+    "source": "line-2/tools/exact-contract/check.py",
+    "copy": "shared/rpc-batch-review/vendor/line-2/tools/exact-contract/check.py",
+    "sha256": "58aadca2f4c75626e115f689e26dd2167a679e966b610d8924595c0723f05cd5"
+  },
+  {
+    "source": "line-2/tools/contract-feasibility/check.py",
+    "copy": "shared/rpc-batch-review/vendor/line-2/tools/contract-feasibility/check.py",
+    "sha256": "4e8cdc98c9ed8f9efcb402346ba2438c5c4f821bdd6fee939b8a3b097c4b79f7"
+  },
+  {
+    "source": "line-2/tools/contract-feasibility/engine.py",
+    "copy": "shared/rpc-batch-review/vendor/line-2/tools/contract-feasibility/engine.py",
+    "sha256": "58aadca2f4c75626e115f689e26dd2167a679e966b610d8924595c0723f05cd5"
+  },
+  {
+    "source": "line-1/tools/rpc-read-batch/live-zto-batch.json",
+    "copy": "shared/rpc-batch-review/zto-batch.json",
+    "sha256": "b369c4f39db608ae240242db924f635a10dfb4e7b543a18113d3b110857c497a"
+  }
+]

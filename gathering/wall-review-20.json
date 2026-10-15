@@ -1,0 +1,39 @@
+{
+  "ancestorSha256": "7d9a2440397fc9c35063b5f39215a6114338b2f44eee1dd66649e1f4406e0e65",
+  "wallSize": [
+    1254,
+    1254
+  ],
+  "wallFormat": "PNG",
+  "wallMode": "RGB",
+  "wallSha256": "d9a76ef70e7ee3e50214c67f8cea4ddbeb76c0b6e22f8b5efb462735316b42c9",
+  "previewSize": [
+    512,
+    512
+  ],
+  "previewFormat": "JPEG",
+  "previewBytes": 76682,
+  "sourceRectangle": [
+    300,
+    305,
+    1235,
+    720
+  ],
+  "additionRectangle": [
+    1007,
+    779,
+    188,
+    83
+  ],
+  "changedPixels": 3878,
+  "unchangedPixels": 1568638,
+  "allPixelsOutsideAdditionUnchanged": true,
+  "deepCracksProtected": true,
+  "newHands": 0,
+  "newHandprints": 0,
+  "unmetVisualRequirements": [],
+  "imageTool": "image_gen__imagegen",
+  "prompt": "Small primitive prehistoric charcoal arc cradling four different ochre pebbles, on pure white background, isolated centered cave-painting motif with lots of white margins. No lettering, numbers, people, hands, frog, border or photography.",
+  "reviewStatus": "visually inspected full PNG and decoded JPEG",
+  "visualFindings": "Ancestor cave rock, framing and recognizable wide-mouthed heavy-lidded Pepe remain. Four small ochre stones in a charcoal cradle added on lower-right rock; no new hands or handprints, writing or prohibited symbols."
+}
