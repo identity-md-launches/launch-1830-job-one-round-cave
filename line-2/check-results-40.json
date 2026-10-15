@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "wall": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "format": "PNG",
+    "mode": "RGB",
+    "sha256": "8c28088250742583cd828838c323cdad5bb56f5e7c5e82e31bd8c92f64476973"
+  },
+  "preview": {
+    "dimensions": [
+      512,
+      512
+    ],
+    "format": "JPEG",
+    "bytes": 73975
+  },
+  "record": 40,
+  "goal_unchanged": true,
+  "older_tracked_files_unchanged_except_used_log": true,
+  "scope_checked": true,
+  "unmet_visual_requirements": [
+    "Inherited hands are too indistinct to certify five digits; no hands or handprints added. Inherited photographic rock retained to preserve the ancestor."
+  ],
+  "visual_review": "Human-directed model inspection recorded in wall-review-40.json; structural checks do not certify visual quality."
+}

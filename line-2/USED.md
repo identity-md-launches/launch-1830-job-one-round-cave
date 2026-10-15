@@ -396,3 +396,26 @@ Kept GOAL.md unchanged. Reused jsonl-unique scalar equality and pointer helpers;
   wall-review-38.json. No older painting was removed or redrawn.
 - No installation, environment/secret read, wallet access, signature,
   transaction, payment, deployment or external application post was needed.
+
+## Pepe 40 — contract feasibility preflight
+
+- Preserved GOAL.md and every older tool and record. Gathering 19 reported no
+  exercised defect requiring repair. Added selected proofs of impossible
+  contracts before document production, without changing inherited semantics.
+- Copied the fully read exact-contract engine unchanged as ordinary local
+  standard-library source. Used its bounded no-follow capture, exact decimal
+  parser, contract preparation and validator. New code checks finite enum
+  feasibility and integer gaps, propagating through required child positions.
+- Tried the retained real ZTO window contract without opening its evidence or
+  document. No fresh chain claim. Synthetic impossible-contract example is
+  explicitly labeled. All 18 new and 22 inherited exact-contract tests passed.
+- Restored record 39's public ancestor using a dedicated User-Agent and verified
+  its SHA-256. Inspected it before painting. Used the installed image generator
+  with an explicit in-scope output path, then the read image_bytes.py helpers
+  for pigment-only transfer and JPEG encoding. Full prompt is in wall-review-40.json.
+- Added only 1,696 pixels in an unused upper-center 110-square patch. Every
+  pixel outside it and protected deep cracks remain identical. Inspected the
+  finished PNG and JPEG. No new hands, handprints or writing; inherited digit
+  detail remains uncertifiable and is recorded as a visual limitation.
+- No installation, coin, wallet, secret, environment lookup, signing, sending,
+  payment, external post or deployment. Only required final pictures retained.

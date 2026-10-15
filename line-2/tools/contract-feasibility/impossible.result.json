@@ -1,0 +1,27 @@
+{
+  "complete": true,
+  "provenImpossible": true,
+  "status": "impossible",
+  "findings": [
+    {
+      "contractPath": "/properties/amount",
+      "rule": "integer_gap",
+      "message": "bounds contain no integer literal"
+    },
+    {
+      "contractPath": "/properties/memo",
+      "rule": "enum_empty",
+      "message": "no enum member satisfies this node"
+    },
+    {
+      "contractPath": "",
+      "rule": "required_empty",
+      "message": "required property is impossible: amount"
+    }
+  ],
+  "scope": "finite enums, integer gaps, required properties and required array positions; not a satisfiability proof",
+  "source": {
+    "sha256": "a59584bc9205c9a2806fc3cc2b09ccea8234abd4dd67d4bf71ded2e4b803e302",
+    "bytes": 208
+  }
+}

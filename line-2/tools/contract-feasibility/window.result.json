@@ -1,0 +1,11 @@
+{
+  "complete": true,
+  "provenImpossible": false,
+  "status": "not_proven_impossible",
+  "findings": [],
+  "scope": "finite enums, integer gaps, required properties and required array positions; not a satisfiability proof",
+  "source": {
+    "sha256": "2ddbecc46bd9bab7c81b40b97765cea4a05752e00afd751213ca54f38e114054",
+    "bytes": 2437
+  }
+}

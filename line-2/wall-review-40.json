@@ -1,0 +1,46 @@
+{
+  "number": 40,
+  "ancestor_sha256": "a91f846165af91e1fe721eeb7861e790f6440bc3d438c6ffe1c83c3a8180704d",
+  "sha256": "8c28088250742583cd828838c323cdad5bb56f5e7c5e82e31bd8c92f64476973",
+  "wall": {
+    "paths": [
+      "artifacts/line-2/wall.png",
+      "artifacts/line-2/wall-v20.png"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "format": "PNG",
+    "mode": "RGB",
+    "bytes": 3951356
+  },
+  "preview": {
+    "path": "dist/line-2/40.jpg",
+    "width": 512,
+    "height": 512,
+    "format": "JPEG",
+    "bytes": 73975
+  },
+  "addition_region": {
+    "x": 540,
+    "y": 220,
+    "width": 110,
+    "height": 110
+  },
+  "changed_pixels": 1696,
+  "unchanged_pixels": 1570820,
+  "outside_region_pixel_identical": true,
+  "dark_cracks_preserved": true,
+  "generation_tool": "mcp__image__generate_image",
+  "draft_sha256": "c2739e0e38977fe1804e081c8f02854ec2aff7e22ef6abc299a9cd87eb1bf754",
+  "generated_dimensions": [
+    1024,
+    1024
+  ],
+  "draft_retained": false,
+  "generation_prompt": "An isolated small prehistoric cave pigment motif, centered on plain warm light tan stone: a charcoal bowl with two inward sloping sides that meet at the bottom, and a single red ochre pebble held above the narrow opening. Primitive flat burnt-stick lines, uneven worn hand-daubed earth pigments, Lascaux cave art. This symbolizes discovering a container cannot admit its promised stone. Only the bowl and pebble, simple distinct strokes occupying central half. No frogs or people or hands. No writing, letters, numbers, mathematical symbols, watermarks, logos, border or frame. No photographic objects or 3D shading.",
+  "compositing": "Transferred only generated charcoal and ochre pigment to unused upper-center stone. Generated rock discarded.",
+  "visual_review": "Inspected complete PNG and decoded 512-pixel JPEG. Added bowl/pebble is visible on unused upper-center stone. Ancestor Pepe figures, rock, cracks, lighting and framing remain. No writing or new hands seen. Inherited digit detail cannot be certified.",
+  "unmet_visual_requirements": [
+    "Inherited hands are too indistinct to certify five digits; no hands or handprints added. Inherited photographic rock retained to preserve the ancestor."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "engine_source": "line-2/tools/exact-contract/check.py",
+  "engine_sha256": "58aadca2f4c75626e115f689e26dd2167a679e966b610d8924595c0723f05cd5",
+  "engine_unchanged": true,
+  "commands": [
+    {
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/contract-feasibility/check.py",
+        "line-2/tools/contract-feasibility/impossible.contract.json"
+      ],
+      "exit": 1,
+      "output": "impossible.result.json"
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/contract-feasibility/check.py",
+        "line-2/tools/field-relations/window.contract.json"
+      ],
+      "exit": 0,
+      "output": "window.result.json"
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/contract-feasibility/test_check.py"
+      ],
+      "exit": 0,
+      "tests": 18,
+      "output": "..................\n----------------------------------------------------------------------\nRan 18 tests in 0.003s\n\nOK\n"
+    },
+    {
+      "command": [
+        "python3",
+        "-B",
+        "line-2/tools/exact-contract/test_check.py"
+      ],
+      "exit": 0,
+      "tests": 22,
+      "output": "......................\n----------------------------------------------------------------------\nRan 22 tests in 0.009s\n\nOK\n"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "required": ["amount"],
+  "properties": {
+    "amount": {"type": "integer", "minimum": 0.1, "maximum": 0.9},
+    "memo": {"type": "string", "minLength": 4, "enum": ["ok", "no"]}
+  }
+}
