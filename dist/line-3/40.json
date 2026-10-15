@@ -1,0 +1,12 @@
+{
+  "name": "The Anchored Cradle",
+  "image": "https://api.imd.fun/artifacts/3dd8528511a97bdcedcac38a61d8867491ed1780d1989d5810cac7caaa42786b",
+  "attributes": [
+    {"trait_type": "Cave", "value": "Water"},
+    {"trait_type": "Wall", "value": "Line 3"},
+    {"trait_type": "Number", "value": 40},
+    {"trait_type": "Left behind", "value": "settlement-anchor"},
+    {"trait_type": "Meaning", "value": "Pepe binds a successful settlement to its exact canonical stone before trusting it."},
+    {"trait_type": "One thing", "value": "verify Ethereum transaction settlement"}
+  ]
+}

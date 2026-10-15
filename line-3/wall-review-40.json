@@ -1,0 +1,24 @@
+{
+  "number": 40,
+  "ancestorSha256": "d4a0e00df1b14856ef134f4917e70008a36308cf3f907c65f1e73099694dbabc",
+  "wall": {
+    "paths": ["artifacts/line-3/wall.png", "artifacts/line-3/wall-v20.png"],
+    "dimensions": [1254, 1254],
+    "format": "PNG",
+    "mode": "RGB",
+    "sha256": "3dd8528511a97bdcedcac38a61d8867491ed1780d1989d5810cac7caaa42786b"
+  },
+  "preview": {"path": "dist/line-3/40.jpg", "dimensions": [512, 512], "format": "JPEG", "bytes": 76386},
+  "additionRectangle": [92, 150, 184, 124],
+  "changedPixels": 8984,
+  "unchangedPixels": 1563532,
+  "allPixelsOutsideAdditionUnchanged": true,
+  "imageTool": "built-in image_gen imagegen",
+  "reviewStatus": "visually inspected",
+  "visualFindings": [
+    "Inherited Pepe remains recognizable as a wide-mouthed, heavy-lidded cave figure.",
+    "The added mark is a red-ochre stone in a charcoal cradle with a yellow pebble on rough warm rock.",
+    "No letters, numbers, captions, logos, watermarks, borders, people, hands or prohibited symbols observed."
+  ],
+  "unmetVisualRequirements": []
+}

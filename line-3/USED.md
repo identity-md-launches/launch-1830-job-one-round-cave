@@ -456,3 +456,24 @@ The final PNGs are identical 1254 × 1254 RGB images and the preview is a
 512 × 512 JPEG. The generated draft was removed after transfer. No dependency,
 wallet, key, environment lookup, signing, transaction, payment, deployment or
 posting was used.
+
+## Pepe 40 — settlement-anchor
+
+Kept GOAL.md unchanged and read gathering/REPORT.md; no exercised line-3 defect was reported.
+Read and reused the settlement, position and slot boundaries before adding settlement-anchor.
+The new standard-library tool joins a successful settlement verdict to its exact transaction and
+block slot, checking policy identity, confirmation arithmetic, required finality and anchor equality;
+it fails closed on mismatches. Its retained real-ZTO demo and seven focused tests pass offline.
+No inherited tool was modified. No dependency, wallet, key, environment lookup, signing, sending,
+payment, deployment or posting was used.
+
+Counted 39 existing records and added only record 40. Recovered record 39 from its content-addressed
+artifact and verified SHA-256 d4a0e00df1b14856ef134f4917e70008a36308cf3f907c65f1e73099694dbabc.
+Used the imagegen skill and built-in image generator for an isolated transparent red-ochre stone,
+charcoal cradle and yellow pebble, then composited only that pigment into vacant upper-left rock.
+Only 8,984 pixels in x=92..275, y=150..273 changed; all pixels outside the addition stayed exact.
+Both final PNGs are identical 1254 × 1254 RGB PNGs with SHA-256
+3dd8528511a97bdcedcac38a61d8867491ed1780d1989d5810cac7caaa42786b. The preview is a 512 × 512
+JPEG of 76,386 bytes. Both were visually inspected; no hands, text, numbers or prohibited imagery
+were observed, and no known visual requirement is unmet. The generated intermediate remains outside
+the delivered paths; only the wall PNGs and required JPEG are delivered.
