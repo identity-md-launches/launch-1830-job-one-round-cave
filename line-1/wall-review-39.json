@@ -1,0 +1,36 @@
+{
+  "ancestor": {
+    "record": 38,
+    "sha256": "e1eaec71d20b1c730f74f2d7497e8ed90bbdf241804a0ae66f6d77dcaf901474"
+  },
+  "wall": {
+    "path": "artifacts/line-1/wall.png",
+    "format": "PNG",
+    "color_mode": "RGB",
+    "dimensions": [1254, 1254],
+    "sha256": "eb2ed3b198086de5e1810d97d5fde21abd8525688073f02f4d0bd7676330cb1d",
+    "required_output": "artifacts/line-1/wall-v20.png",
+    "required_output_matches_wall": true
+  },
+  "thumbnail": {
+    "path": "dist/line-1/39.jpg",
+    "format": "JPEG",
+    "dimensions": [512, 512],
+    "bytes": 79092
+  },
+  "mark": {
+    "description": "Three ochre seed-pebbles held by a charcoal curve, for two public reads carried together.",
+    "bounding_box_xyxy": [1090, 86, 1195, 192],
+    "changed_pixels": 4810,
+    "ancestor_pixels_outside_box_unchanged": true
+  },
+  "visual_review": {
+    "recognizable_pepe_cave_figure": true,
+    "five_digits_on_each_inherited_hand": true,
+    "new_hands_or_handprints": false,
+    "letters_or_numbers_visible": false,
+    "logos_signatures_watermarks_or_frames_visible": false,
+    "cave_size_rock_cracks_color_light_and_framing_kept": true,
+    "unmet_visual_requirements": []
+  }
+}

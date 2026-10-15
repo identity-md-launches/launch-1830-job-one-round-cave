@@ -1,0 +1,24 @@
+{
+  "requests": [
+    {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xd782bdea4ef02a0bd391eb9089470c8080f0a68e",
+          "data": "0x18160ddd"
+        },
+        "latest"
+      ]
+    },
+    {
+      "method": "eth_call",
+      "params": [
+        {
+          "to": "0xd782bdea4ef02a0bd391eb9089470c8080f0a68e",
+          "data": "0x313ce567"
+        },
+        "latest"
+      ]
+    }
+  ]
+}

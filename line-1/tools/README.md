@@ -25,3 +25,7 @@ For a finalized-block ZTO supply bundle, see `anchored-zto-snapshot/README.md`. 
 For a general offline comparison of two bounded JSON-RPC snapshots with the same request, see `generic-snapshot-diff/README.md`.
 
 For one offline-readable file containing several individually verified RPC snapshots, see `snapshot-capsule/README.md`.
+
+To capture several allowed public reads in one JSON-RPC batch, correlate their
+responses by ID, and replay the saved record offline, see
+`rpc-read-batch/README.md`.

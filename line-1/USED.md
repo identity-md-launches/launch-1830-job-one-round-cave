@@ -104,3 +104,12 @@ safe workspace reader without changing either. Its demo combines the inherited
 real ZTO supply and finalized-block captures, then verifies both offline as one
 file. No new chain request, coin, wallet, key, secret, signature, payment or
 transaction was needed.
+
+The RPC read batch reuses the bounded read-method validator and descriptor-relative
+safe workspace file access. It adds one bounded public JSON-RPC batch with
+request-ID correlation and offline transcript checksums. Its included real
+Publicnode capture reads ZTO `totalSupply()` and `decimals()` together; both
+responses replay offline. The wall begins with record 38's verified image and
+keeps its pixels outside a new, alpha-blended three-pebble mark on vacant upper
+right stone. No new coin, wallet, key, secret, signature, payment or transaction
+was needed.
